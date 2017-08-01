@@ -1,1 +1,1 @@
-java -jar target/demo.jar > /dev/null 2>&1 &
+java -jar target/demo.jar  > /dev/null 2>&1 &
